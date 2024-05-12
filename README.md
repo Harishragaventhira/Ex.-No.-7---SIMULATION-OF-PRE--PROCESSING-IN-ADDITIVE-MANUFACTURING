@@ -46,8 +46,8 @@
 ## Output:
 ![image](https://github.com/Mario-Viofer-J/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979232/3652f073-51a3-45b8-8a46-e22fd15f3031)
 
-### Name: MARIO VIOFER J
-### Register Number: 212223100032
+### Name: HARISH S
+### Register Number: 212223230072
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
